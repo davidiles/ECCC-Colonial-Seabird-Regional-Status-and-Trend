@@ -1,0 +1,6 @@
+from_collaborators/
+data/
+output/
+archive/
+*.RData
+*.Rhistory
